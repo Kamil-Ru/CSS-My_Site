@@ -1,0 +1,46 @@
+body {
+  background-color: #F5F4F4;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #CAE4DB;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  padding: 20px;
+
+}
+
+.middle-container {
+  background-color: #CDAC81;
+  height: 200px;
+  width: 200px;
+  border: solid 20px;
+  position: relative;
+  top: 0px; left: 260px;
+
+}
+
+.bottom-container {
+  background-color: #00303F;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  position: relative;
+  top: 0px; left: 500px;
+}
+
+/*
+Colors =]
+F5F4F4
+CAE4DB
+CDAC81
+00303F */
